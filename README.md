@@ -1,0 +1,1 @@
+# xcapp-template_manager
