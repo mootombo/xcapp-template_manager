@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<info>
+    <id>template_manager</id>
+    <name>Template Manager</name>
+    <description>
+		Easy manage your cloud themes, with live previews on the admin settings page. Especially useful after an (app) update. Translated to English, German, Spanish, French and Dutch.
+
+		Description: It reads directory names listed in the cloudroot/themes/ folder and it looks up every theme name, logo, slogan and location.
+
+		Please note, that this app is not updateable via the normal installer/updater!
+		
+		GNU General Public License version 2 or later; see LICENSE
+		(C) 1997 - 2016 devXive - research and development. All rights reserved.
+    </description>
+    <licence>GNU</licence>
+    <author>devXive - research and development</author>
+    <version>1.0</version>
+    <namespace>template_manager</namespace>
+    <category>tool</category>
+    <dependencies>
+        <owncloud min-version="9" max-version="11"/>
+        <nextcloud min-version="9" max-version="12"/>
+    </dependencies>
+</info>

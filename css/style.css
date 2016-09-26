@@ -1,0 +1,41 @@
+#template_manager-admin input[type="radio"] {
+	margin-left: 10px !important;
+}
+#template_manager-admin .logo_img {
+	max-width: 125px;
+	max-height: 80px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#template_manager-admin table {
+	background-color: #f8f8f8;
+}
+#template_manager-admin table td {
+	text-align: center;
+}
+#template_manager-admin table tbody tr:hover,
+#template_manager-admin table tbody tr:focus {
+	background-color: #ddd !important;
+}
+#template_manager-admin .name {
+	font-weight: bold;
+}
+#template_manager-admin .slogan_title,
+#template_manager-admin .location_title {
+	font-weight: bold;
+}
+#template_manager-admin .slogan {
+	font-style: italic;
+	max-width: 400px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin-right: 10px;
+}
+#template_manager-admin .location {
+	font-family: Courier;
+	margin-right: 10px;
+}
+#template_manager-admin .info_td {
+	text-align: left !important;
+	max-width: 450px;
+}
